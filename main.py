@@ -1,5 +1,4 @@
-# SpaceWar by @TokyoEdTech / Written in Python 2.7
-# Part VIII: Multiple Enemies/ Multiple Allies
+
 
 import os
 import random
